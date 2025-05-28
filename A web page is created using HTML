@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="description" content="A sample webpage showing head tag usage"> 
+    <meta name="author" content="Student Name"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     
+    <title>Sample Web Page</title> 
+ 
+    <link rel="stylesheet" href="styles.css"> 
+ 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+            background-color: #f0f8ff; 
+        } 
+    </style> 
+ 
+    <script> 
+        console.log("Page Loaded Successfully!"); 
+    </script> 
+</head> 
+<body> 
+    <header> 
+        <h1>Welcome to My Web Page</h1> 
+    </header> 
+    <main> 
+        <p>This page demonstrates the use of head section tags.</p> 
+    </main> 
+    <footer> 
+        <p>&copy; 2025 Student Name. All rights reserved.</p> 
+    </footer> 
+</body> 
+</html> 
